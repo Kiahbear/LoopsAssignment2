@@ -9,6 +9,8 @@
  *      <60 = F
  *      
  * BONUS: Get scores from the user instead of initializing them in the program
+ * 
+ * Kiah Nicholson-Wilcox
  */
 
 document.write("<p>Grade calculation program</p>");
